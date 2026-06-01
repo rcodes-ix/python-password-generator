@@ -55,7 +55,4 @@ python PyPasswordG.py
 * Build a graphical user interface (GUI)
 * Add password strength evaluation
 
-## Author
-
-Created by Rekik Samson
 
